@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thinking on 混沌的云</title>
-    <link>http://blog.zerob13.in/tags/thinking/</link>
+    <link>http://localhost:1313/tags/thinking/</link>
     <description>Recent content in Thinking on 混沌的云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
     
     <lastBuildDate>Wed, 31 Dec 2014 01:12:04 CST</lastBuildDate>
-    <atom:link href="http://blog.zerob13.in/tags/thinking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/thinking/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>再见2014,又是一年的流水账</title>
-      <link>http://blog.zerob13.in/post/byebye-2014/</link>
+      <link>http://localhost:1313/post/byebye-2014/</link>
       <pubDate>Wed, 31 Dec 2014 01:12:04 CST</pubDate>
       
-      <guid>http://blog.zerob13.in/post/byebye-2014/</guid>
+      <guid>http://localhost:1313/post/byebye-2014/</guid>
       <description>
 
 &lt;h2 id=&#34;从现在说起:a5ae6b64cb41d7dcd4cfd169493407eb&#34;&gt;从现在说起&lt;/h2&gt;
@@ -133,10 +133,10 @@
     
     <item>
       <title>更『私』的生活</title>
-      <link>http://blog.zerob13.in/post/more-private-life/</link>
+      <link>http://localhost:1313/post/more-private-life/</link>
       <pubDate>Sun, 30 Nov 2014 13:19:26 CST</pubDate>
       
-      <guid>http://blog.zerob13.in/post/more-private-life/</guid>
+      <guid>http://localhost:1313/post/more-private-life/</guid>
       <description>
 
 &lt;h2 id=&#34;从-改变-说起:bc52db071aac75403ff89667f5e9ebf4&#34;&gt;从『改变』说起&lt;/h2&gt;

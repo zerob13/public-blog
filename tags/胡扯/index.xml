@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>胡扯 on 混沌的云</title>
-    <link>http://blog.zerob13.in/tags/%E8%83%A1%E6%89%AF/</link>
+    <link>http://localhost:1313/tags/%E8%83%A1%E6%89%AF/</link>
     <description>Recent content in 胡扯 on 混沌的云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
     
     <lastBuildDate>Tue, 02 Sep 2014 20:40:47 CST</lastBuildDate>
-    <atom:link href="http://blog.zerob13.in/tags/%E8%83%A1%E6%89%AF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E8%83%A1%E6%89%AF/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>没有才华，只是个逼人</title>
-      <link>http://blog.zerob13.in/post/no-talent-just-a-fucker/</link>
+      <link>http://localhost:1313/post/no-talent-just-a-fucker/</link>
       <pubDate>Tue, 02 Sep 2014 20:40:47 CST</pubDate>
       
-      <guid>http://blog.zerob13.in/post/no-talent-just-a-fucker/</guid>
+      <guid>http://localhost:1313/post/no-talent-just-a-fucker/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;年轻时候我一度以为我自己才华逼人，长大了才知道我并没才华单纯只是个逼人罢了。&lt;/p&gt;
 &lt;/blockquote&gt;

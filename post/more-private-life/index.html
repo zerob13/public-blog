@@ -12,8 +12,8 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     
-    <link rel="stylesheet" href="http://blog.zerob13.in/styles/vendor.css">
-    <link rel="stylesheet" href="http://blog.zerob13.in/styles/main.css">
+    <link rel="stylesheet" href="http://localhost:1313/styles/vendor.css">
+    <link rel="stylesheet" href="http://localhost:1313/styles/main.css">
     <link href="" rel="alternate" type="application/rss+xml" title="混沌的云" />
 </head>
 
@@ -23,19 +23,19 @@
     <div class="sidebar">
     <div class="container sidebar-bottom">
         <div class="about">
-            <a class="js-ajax-link" href="http://blog.zerob13.in"><img src="http://blog.zerob13.in/images/78e27fbf.profile_icon.jpg" alt="" /></a>
+            <a class="js-ajax-link" href="http://localhost:1313"><img src="http://localhost:1313/images/78e27fbf.profile_icon.jpg" alt="" /></a>
             <h1>混沌的云</h1>
             <p class="lead">
                  臭文青，前百度Android高级工程师，前摄影汪。满满负能量，现在在社会上做爱做的事情 
             </p>
         </div>
         <ul class="navlist">
-            <li><a class="js-ajax-link" href="http://blog.zerob13.in">首页</a>
+            <li><a class="js-ajax-link" href="http://localhost:1313">首页</a>
             </li>
             
         </ul>
         <p class="siteinfo">
-             &copy; 2014. All rights reserved.
+             &copy; 2015. All rights reserved.
         </p>
     </div>
 </div>
@@ -44,7 +44,7 @@
         <div id="ajax-container">
             <div class="content container ">
                 <div class="post">
-                    <h1 class="title"><a class="js-ajax-link" href="http://blog.zerob13.in/post/more-private-life/">更『私』的生活</a></h1>
+                    <h1 class="title"><a class="js-ajax-link" href="http://localhost:1313/post/more-private-life/">更『私』的生活</a></h1>
                     <span class="date">Sun, Nov 30, 2014</span> 
 
 <h2 id="从-改变-说起:bc52db071aac75403ff89667f5e9ebf4">从『改变』说起</h2>
@@ -89,10 +89,13 @@
             </div>
         </div>
     </div>
-        <script src="http://blog.zerob13.in/scripts/vendor.js"></script>
-    <script src="http://blog.zerob13.in/scripts/main.js"></script>
+        <script src="http://localhost:1313/scripts/vendor.js"></script>
+    <script src="http://localhost:1313/scripts/main.js"></script>
 
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 
 </html>
