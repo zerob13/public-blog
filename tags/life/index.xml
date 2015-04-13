@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on 混沌的云</title>
-    <link>http://localhost:1313/tags/life/</link>
+    <link>http://blog.zerob13.in/tags/life/</link>
     <description>Recent content in Life on 混沌的云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    
-    
-    <lastBuildDate>Wed, 31 Dec 2014 01:12:04 CST</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2014 01:12:04 +0800</lastBuildDate>
+    <atom:link href="http://blog.zerob13.in/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>再见2014,又是一年的流水账</title>
-      <link>http://localhost:1313/post/byebye-2014/</link>
-      <pubDate>Wed, 31 Dec 2014 01:12:04 CST</pubDate>
+      <link>http://blog.zerob13.in/post/byebye-2014/</link>
+      <pubDate>Wed, 31 Dec 2014 01:12:04 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/byebye-2014/</guid>
+      <guid>http://blog.zerob13.in/post/byebye-2014/</guid>
       <description>
 
 &lt;h2 id=&#34;从现在说起:a5ae6b64cb41d7dcd4cfd169493407eb&#34;&gt;从现在说起&lt;/h2&gt;
@@ -133,10 +131,10 @@
     
     <item>
       <title>更『私』的生活</title>
-      <link>http://localhost:1313/post/more-private-life/</link>
-      <pubDate>Sun, 30 Nov 2014 13:19:26 CST</pubDate>
+      <link>http://blog.zerob13.in/post/more-private-life/</link>
+      <pubDate>Sun, 30 Nov 2014 13:19:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/more-private-life/</guid>
+      <guid>http://blog.zerob13.in/post/more-private-life/</guid>
       <description>
 
 &lt;h2 id=&#34;从-改变-说起:bc52db071aac75403ff89667f5e9ebf4&#34;&gt;从『改变』说起&lt;/h2&gt;
@@ -180,10 +178,10 @@
     
     <item>
       <title>没有才华，只是个逼人</title>
-      <link>http://localhost:1313/post/no-talent-just-a-fucker/</link>
-      <pubDate>Tue, 02 Sep 2014 20:40:47 CST</pubDate>
+      <link>http://blog.zerob13.in/post/no-talent-just-a-fucker/</link>
+      <pubDate>Tue, 02 Sep 2014 20:40:47 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/no-talent-just-a-fucker/</guid>
+      <guid>http://blog.zerob13.in/post/no-talent-just-a-fucker/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;年轻时候我一度以为我自己才华逼人，长大了才知道我并没才华单纯只是个逼人罢了。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -206,10 +204,10 @@
     
     <item>
       <title>最重要的事情</title>
-      <link>http://localhost:1313/post/most-important-things/</link>
-      <pubDate>Wed, 20 Aug 2014 20:50:18 CST</pubDate>
+      <link>http://blog.zerob13.in/post/most-important-things/</link>
+      <pubDate>Wed, 20 Aug 2014 20:50:18 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/most-important-things/</guid>
+      <guid>http://blog.zerob13.in/post/most-important-things/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;重要的事情从一开始就只有一个，那就是做好当下的角色。&lt;/p&gt;
 &lt;/blockquote&gt;
