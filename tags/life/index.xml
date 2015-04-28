@@ -6,7 +6,6 @@
     <description>Recent content in Life on 混沌的云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 28 Apr 2015 23:34:33 +0800</lastBuildDate>
     <atom:link href="http://blog.zerob13.in/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
@@ -51,12 +50,6 @@
     </item>
     
     <item>
-=======
-    <lastBuildDate>Mon, 13 Apr 2015 17:39:35 +0800</lastBuildDate>
-    <atom:link href="http://blog.zerob13.in/tags/life/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
->>>>>>> 375d9b167b304450d581e07e74d8359395c6d411
       <title>Because I can</title>
       <link>http://blog.zerob13.in/post/because-i-can/</link>
       <pubDate>Mon, 13 Apr 2015 17:39:35 +0800</pubDate>
