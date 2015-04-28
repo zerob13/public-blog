@@ -3,16 +3,23 @@
   
   <url>
     <loc>http://blog.zerob13.in/</loc>
+<<<<<<< HEAD
     <lastmod>2015-04-28T23:34:33+08:00</lastmod>
+=======
+    <lastmod>2015-04-13T17:39:35+08:00</lastmod>
+>>>>>>> 375d9b167b304450d581e07e74d8359395c6d411
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://blog.zerob13.in/post/shit-stories-mr-r/</loc>
     <lastmod>2015-04-28T23:34:33+08:00</lastmod>
   </url>
   
   <url>
+=======
+>>>>>>> 375d9b167b304450d581e07e74d8359395c6d411
     <loc>http://blog.zerob13.in/post/because-i-can/</loc>
     <lastmod>2015-04-13T17:39:35+08:00</lastmod>
   </url>
