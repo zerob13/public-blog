@@ -2,28 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2014-12-31T01:12:04+08:00</lastmod>
+    <loc>http://blog.zerob13.in/</loc>
+    <lastmod>2015-04-28T23:34:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/byebye-2014/</loc>
+    <loc>http://blog.zerob13.in/post/shit-stories-mr-r/</loc>
+    <lastmod>2015-04-28T23:34:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.zerob13.in/post/because-i-can/</loc>
+    <lastmod>2015-04-13T17:39:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.zerob13.in/post/byebye-2014/</loc>
     <lastmod>2014-12-31T01:12:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/more-private-life/</loc>
+    <loc>http://blog.zerob13.in/post/more-private-life/</loc>
     <lastmod>2014-11-30T13:19:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/no-talent-just-a-fucker/</loc>
+    <loc>http://blog.zerob13.in/post/no-talent-just-a-fucker/</loc>
     <lastmod>2014-09-02T20:40:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/most-important-things/</loc>
+    <loc>http://blog.zerob13.in/post/most-important-things/</loc>
     <lastmod>2014-08-20T20:50:18+08:00</lastmod>
   </url>
   
